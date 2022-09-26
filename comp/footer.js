@@ -47,16 +47,20 @@ export default function Footer(){
 <div style={{paddingLeft:'4px'}}>
 <div className="inline">
                   <img src="location.svg" alt=""/>
-                  <p style={{paddingLeft:'4px',paddingTop:'4px' ,fontSize:'18px'}}>Uttara,Dhaka</p>
+                  <p style={{paddingLeft:'4px',paddingTop:'4px' ,fontSize:'18px'}}>Matikatabazar, Dhaka Cantonment, Dhaka 1206</p>
                 </div>
                 <div className="inline">
                   <img src="global.svg" alt=""/>
-                  <p style={{paddingLeft:'4px',paddingTop:'4px' ,fontSize:'18px'}}>tanvir@gmail.com <a href="mailto:tanvir@gmail.com"></a> </p>
+                  <p style={{paddingLeft:'4px',paddingTop:'4px' ,fontSize:'18px'}}>mehrinmostafa@gmail.com <a href="mailto:mehrinmostafa@gmail.com"></a> </p>
                 </div>
 </div>
                 <div className="inline">
-                  <img src="Facebook.svg" className="ic" alt=""/>
-                  <img src="Linkedin.svg" className="ic" alt=""/>
+                <a href="https://www.facebook.com/mehrin.mumu.3395" target="_blank" rel="noopener noreferrer">
+                <img src="Facebook.svg" className="ic" alt=""/>
+                </a>
+                <a href="https://www.linkedin.com/in/mehrin-mostafa-mumu-3556231a9" target="_blank" rel="noopener noreferrer">
+                <img src="Linkedin.svg" className="ic" alt=""/>
+                </a>    
                   <img src="Twitter.svg" className="ic" alt=""/>
                   <img src="Instagram.svg" className="ic" alt=""/>
                   <img src="Youtube.svg" className="ic" alt=""/>
